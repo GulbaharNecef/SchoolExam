@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|c:\\users\\asus\\source\\repos\\examprogramapi\\examprogramapi\\dtos\\teacherdto\\teachercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|solutionrelative:examprogramapi\\dtos\\teacherdto\\teachercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|c:\\users\\asus\\source\\repos\\examprogramapi\\examprogramapi\\implementations\\services\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|solutionrelative:examprogramapi\\implementations\\services\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|c:\\users\\asus\\source\\repos\\examprogramapi\\examprogramapi\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|solutionrelative:examprogramapi\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|c:\\users\\asus\\source\\repos\\examprogramapi\\examprogramapi\\dbentities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|solutionrelative:examprogramapi\\dbentities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|c:\\users\\asus\\source\\repos\\examprogramapi\\examprogramapi\\implementations\\services\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|solutionrelative:examprogramapi\\implementations\\services\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|c:\\users\\asus\\source\\repos\\examprogramapi\\examprogramapi\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|solutionrelative:examprogramapi\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|c:\\users\\asus\\source\\repos\\examprogramapi\\examprogramapi\\dtos\\examdto\\examcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|solutionrelative:examprogramapi\\dtos\\examdto\\examcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|c:\\users\\asus\\source\\repos\\examprogramapi\\examprogramapi\\dtos\\teacherdto\\teachergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|solutionrelative:examprogramapi\\dtos\\teacherdto\\teachergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|c:\\users\\asus\\source\\repos\\examprogramapi\\examprogramapi\\dtos\\studentdto\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|solutionrelative:examprogramapi\\dtos\\studentdto\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|c:\\users\\asus\\source\\repos\\examprogramapi\\examprogramapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|solutionrelative:examprogramapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|c:\\users\\asus\\source\\repos\\examprogramapi\\examprogramapi\\implementations\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|solutionrelative:examprogramapi\\implementations\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|c:\\users\\asus\\source\\repos\\examprogramapi\\examprogramapi\\implementations\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|solutionrelative:examprogramapi\\implementations\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|c:\\users\\asus\\source\\repos\\examprogramapi\\examprogramapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|solutionrelative:examprogramapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|c:\\users\\asus\\source\\repos\\examprogramapi\\examprogramapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A210E-B2A0-4E46-A3EB-000D03F5565A}|ExamProgramAPI\\ExamProgramAPI.csproj|solutionrelative:examprogramapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Implementations\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "ExamProgramAPI\\Implementations\\Services\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Implementations\\Services\\TeacherService.cs",
+              "RelativeToolTip": "ExamProgramAPI\\Implementations\\Services\\TeacherService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:04:27.884Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "ExamProgramAPI\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "ExamProgramAPI\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:05:15.873Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Controllers\\LessonController.cs",
+              "RelativeDocumentMoniker": "ExamProgramAPI\\Controllers\\LessonController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Controllers\\LessonController.cs",
+              "RelativeToolTip": "ExamProgramAPI\\Controllers\\LessonController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:11:23.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LessonService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Implementations\\Services\\LessonService.cs",
+              "RelativeDocumentMoniker": "ExamProgramAPI\\Implementations\\Services\\LessonService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Implementations\\Services\\LessonService.cs",
+              "RelativeToolTip": "ExamProgramAPI\\Implementations\\Services\\LessonService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:01:20.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\DTOs\\TeacherDTO\\TeacherCreateDTO.cs",
+              "RelativeDocumentMoniker": "ExamProgramAPI\\DTOs\\TeacherDTO\\TeacherCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\DTOs\\TeacherDTO\\TeacherCreateDTO.cs",
+              "RelativeToolTip": "ExamProgramAPI\\DTOs\\TeacherDTO\\TeacherCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:55:36.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\DbEntities\\Lesson.cs",
+              "RelativeDocumentMoniker": "ExamProgramAPI\\DbEntities\\Lesson.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\DbEntities\\Lesson.cs",
+              "RelativeToolTip": "ExamProgramAPI\\DbEntities\\Lesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:01:34.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExamService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Implementations\\Services\\ExamService.cs",
+              "RelativeDocumentMoniker": "ExamProgramAPI\\Implementations\\Services\\ExamService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Implementations\\Services\\ExamService.cs",
+              "RelativeToolTip": "ExamProgramAPI\\Implementations\\Services\\ExamService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:38:10.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "ExamProgramAPI\\Controllers\\ExamController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "ExamProgramAPI\\Controllers\\ExamController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:49:35.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExamCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\DTOs\\ExamDTO\\ExamCreateDTO.cs",
+              "RelativeDocumentMoniker": "ExamProgramAPI\\DTOs\\ExamDTO\\ExamCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\DTOs\\ExamDTO\\ExamCreateDTO.cs",
+              "RelativeToolTip": "ExamProgramAPI\\DTOs\\ExamDTO\\ExamCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:01:24.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\DTOs\\StudentDTO\\StudentGetDTO.cs",
+              "RelativeDocumentMoniker": "ExamProgramAPI\\DTOs\\StudentDTO\\StudentGetDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\DTOs\\StudentDTO\\StudentGetDTO.cs",
+              "RelativeToolTip": "ExamProgramAPI\\DTOs\\StudentDTO\\StudentGetDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:44:00.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\DTOs\\TeacherDTO\\TeacherGetDTO.cs",
+              "RelativeDocumentMoniker": "ExamProgramAPI\\DTOs\\TeacherDTO\\TeacherGetDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\DTOs\\TeacherDTO\\TeacherGetDTO.cs",
+              "RelativeToolTip": "ExamProgramAPI\\DTOs\\TeacherDTO\\TeacherGetDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:52:37.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ExamProgramAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Program.cs",
+              "RelativeToolTip": "ExamProgramAPI\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowCwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:26:25.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Implementations\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "ExamProgramAPI\\Implementations\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Implementations\\Services\\StudentService.cs",
+              "RelativeToolTip": "ExamProgramAPI\\Implementations\\Services\\StudentService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:23:08.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ExamProgramAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ExamProgramAPI\\ExamProgramAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ExamProgramAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:20:42.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
